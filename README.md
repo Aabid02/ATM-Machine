@@ -1,5 +1,5 @@
 This is a console based application project which consists of different classes.
-When the system starts the user is prompted with user id.
+When the system starts the user Is prompted with user id.
 
 After successfully entering the details, ATM functionalities are attained.
 
