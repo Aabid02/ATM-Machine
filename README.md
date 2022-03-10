@@ -5,8 +5,8 @@ After successfully entering the details, ATM functionalities are attained.
 
 This Project allow us to perform these operations - 
 
-(A) Transaction
-(B) Withdraw
-(C) Deposit
-(D) Transfer
-(E) Quit
+ Transaction
+ Withdraw
+ Deposit
+ Transfer
+ Quit
